@@ -9,10 +9,21 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@supabase/supabase-js": "^2.43.1",
+    "axios": "^1.6.8",
     "expo": "~51.0.2",
+    "expo-device": "~6.0.2",
+    "expo-notifications": "^0.28.1",
+    "expo-speech": "^12.0.2",
     "expo-status-bar": "~1.12.1",
+    "express": "^4.19.2",
     "react": "18.2.0",
-    "react-native": "0.74.1"
+    "react-native": "0.74.1",
+    "react-native-modal": "^13.0.1",
+    "react-native-push-notification": "^8.1.1",
+    "react-native-toast-message": "^2.2.0",
+    "react-native-tts": "^4.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
